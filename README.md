@@ -49,9 +49,10 @@ Si tu proveedor de hospedaje no quiere integrar Let’s Encrypt, pero sí tiene 
 
 En este caso explicaré como instalarlo a través de un servidor CLOUD.
 
-https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/ssl1.JPG
+![captura1ssl](https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/ssl1.JPG)&nbsp;
 
-https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/ssl2.JPG
+![captura2ssl](https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/ssl2.JPG)&nbsp;
+
 
 
 
