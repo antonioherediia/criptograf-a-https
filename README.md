@@ -49,7 +49,7 @@ Si tu proveedor de hospedaje no quiere integrar Let’s Encrypt, pero sí tiene 
 
 En este caso explicaré como instalarlo a través de un servidor CLOUD.
 
-Dentro del cloud, en el apartado dominios y ssl, nos vamos a la parte infrerior y seleccionamos let's Cripts gratutito
+Dentro del cloud, en el apartado dominios y ssl, nos vamos a la parte infrerior y seleccionamos let's Cripts gratutito, le damos a instalar, seguidamente introducimos el correo y luego a obtener certificado
 
 ![captura1ssl](https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/ssl1.JPG)&nbsp;
 
