@@ -56,5 +56,4 @@ Dentro del cloud, en el apartado dominios y ssl, nos vamos a la parte infrerior 
 ![captura2ssl](https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/ssl2.JPG)&nbsp;
 
 
-
-
+Enlace Video: https://youtu.be/usoBW1wteFg
