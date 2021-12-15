@@ -18,7 +18,7 @@ El certificado permite pasar de http a https, es decir, permite encriptar los da
 
 ## Tipos de certificados.
 
-Comercialmente existen varios tipos de cifrados que te ofrecen distintas protecciones a nivel de dominio, pero todos con la misma base.
+Comercialmente existen varios tipos de certificados que te ofrecen distintas protecciones a nivel de dominio, pero todos con la misma base.
 
 https://raw.githubusercontent.com/antonioherediia/criptograf-a-https/main/captura%20tabla%20certificados.JPG
 
